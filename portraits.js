@@ -75,4 +75,9 @@ window.MATCHSTICK_PORTRAITS = [
     author: 'Николь',
     photo: 'photos/portrait-15.webp',
   },
+  {
+    code: 'Олег Газманов',
+    author: 'Женя',
+    photo: 'photos/portrait-16.webp',
+  },
 ];
