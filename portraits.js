@@ -80,4 +80,9 @@ window.MATCHSTICK_PORTRAITS = [
     author: 'Женя',
     photo: 'photos/portrait-16.webp',
   },
+  {
+    code: 'Зять',
+    author: 'Настя',
+    photo: 'photos/portrait-17.webp',
+  },
 ];
